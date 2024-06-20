@@ -1,0 +1,2 @@
+Api command to download dataset
+kaggle datasets download -d gunavenkatdoddi/eye-diseases-classification
